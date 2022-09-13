@@ -1,4 +1,4 @@
-reate table Student ( sid number(2) primary key, sname varchar2(15), school varchar2(10), hobby varchar2(15), std number(2), gender varchar2(1) );
+Create table Student ( sid number(2) primary key, sname varchar2(15), school varchar2(10), hobby varchar2(15), std number(2), gender varchar2(1) );
 
 insert into Student values (1,'ajit','xavier','dance',5,'m');
 
